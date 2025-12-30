@@ -1,4 +1,4 @@
-# Churn Analysis Dashboard - Tableau
+# Análise de Churn Dashboard - Tableau
 
 Este repositório contém uma análise de churn de clientes desenvolvida como parte de uma atividade prática de análise de dados.
 
