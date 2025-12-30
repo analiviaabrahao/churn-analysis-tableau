@@ -14,9 +14,13 @@ O dashboard interativo pode ser acessado no link abaixo:
 Analisar padrões de comportamento dos clientes associados ao churn, identificando fatores relevantes que impactam a retenção.
 
 ##  Principais Insights
-- Identificação de perfis com maior propensão ao churn
-- Comparação entre clientes ativos e cancelados
-- Análise de variáveis comportamentais e demográficas
+- Aproximadamente 20% dos clientes analisados cancelaram o serviço, indicando uma taxa de churn relevante, com potencial impacto direto nos resultados da instituição financeira.
+- Embora a base de clientes seja majoritariamente masculina, o churn é proporcionalmente maior entre as mulheres, sugerindo diferenças no comportamento ou na experiência do cliente por gênero.
+- A Alemanha apresenta a maior taxa proporcional de churn, mesmo não sendo o país com maior volume de clientes, o que indica possíveis variações regionais na percepção de valor ou qualidade do serviço.
+- O churn aumenta significativamente a partir dos 40 anos, com destaque para a faixa entre 50 e 60 anos, onde a evasão supera a retenção, enquanto clientes mais jovens tendem a permanecer ativos.
+- A análise por renda mostra que o salário, isoladamente, não é determinante para o churn, porém clientes de renda média e alta apresentam maior propensão à evasão, sugerindo maior sensibilidade a benefícios, taxas e qualidade dos serviços.
+- Clientes com bom score de crédito também apresentam taxas elevadas de churn, reforçando a hipótese de um público mais exigente e atento a vantagens competitivas.
+- Observa-se que clientes com apenas um produto contratado tendem a abandonar mais rapidamente a instituição, o que pode indicar uma experiência inicial insatisfatória ou baixa estratégia de engajamento e cross-sell.
 
 ## Ferramentas Utilizadas
 - Tableau Desktop / Tableau Public
