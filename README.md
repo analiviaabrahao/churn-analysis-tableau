@@ -9,6 +9,7 @@ Este repositório contém uma análise de churn de clientes desenvolvida como pa
 O dashboard interativo pode ser acessado no link abaixo:
 
 🔗 [https://public.tableau.com/app/profile/ana.l.via.abrah.o/viz/Dashboard-Churn/Dashboard]
+
 🔗 [https://public.tableau.com/app/profile/ana.l.via.abrah.o/viz/Dashboard2-churn/Painel1]
 
 ## Objetivo da Análise
